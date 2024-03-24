@@ -28,7 +28,7 @@
 <p>API: OpenWeatherMap</p>
 
 <h2>Status</h2>
-<p>In progress.</p>
+<p>In progress...</p>
 
 <h2>Author</h2>
 <p>Lucas Landivar de Morais</p>
