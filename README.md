@@ -25,7 +25,7 @@
 <p>HTML</p>
 <p>CSS</p>
 <p>JavaScript</p>
-<p>API: OpenWeatherMap</p>
+<p>API-OpenWeatherMap</p>
 
 <h2>Status</h2>
 <p>In progress...</p>
